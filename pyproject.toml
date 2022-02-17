@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "svg-to-svelte"
+name = "svg2svelte"
 version = "0.1.0"
-description = ""
+description = "Converts a SVG file into a Svelte file."
 authors = ["Demetrius Panovitch <demetrius.mp789@gmail.com>"]
 
 [tool.poetry.dependencies]
